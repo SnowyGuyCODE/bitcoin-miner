@@ -24,8 +24,15 @@ Earn up to 0.0008 bitcoin for every 5 minutes (mostly depending on the time).
 
 ### Windows:
 Download and install:
-  * **Latest python3.10**: check [python.org](https://python.org/downloads)
+  * **Latest python 3.10**: check [python.org](https://python.org/downloads) or the microsoft store's [python 3.10 application](https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5)
+  * **Latest colorama module**: open command prompt and enter:
+  ~~~ rb
+  pip install colorama
+  ~~~
+  * **Latest release**: check the repo's [releases page](https://github.com/SnowyGuyCODE/bitcoin-miner/releases)
+
 ### MacOS:
+Coming soon...
 
 ### Linux:
-
+Coming soon...
