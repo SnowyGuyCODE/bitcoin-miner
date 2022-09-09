@@ -6,4 +6,4 @@ Earn up to 0.0008 bitcoin for every 5 minutes (mostly depending on the time).
 
 Donate Bitcoin via QR Code:
 
-![bitcoin-donate]
+![bitcoin-donate](https://user-images.githubusercontent.com/110027012/189337957-d602af05-c368-4cfc-bf79-d1460a72648c.png)
