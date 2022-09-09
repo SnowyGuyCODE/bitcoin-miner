@@ -21,5 +21,8 @@ Earn up to 0.0008 bitcoin for every 5 minutes (mostly depending on the time).
 
 
 
-# Install
 # Windows Install:
+
+# MacOS Install:
+
+# Linux Install:
