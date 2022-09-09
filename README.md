@@ -33,4 +33,17 @@ Download and install:
 Coming soon...
 
 ### Linux:
-Coming soon...
+Download and install:
+  * **Latest python 3.10**: check [python.org](https://python.org/downloads) or use in the terminal the command:
+  ~~~ rb
+  apt update && apt install python3
+  ~~~
+  * **Latest colorama module**: open the terminal and enter:
+  ~~~ rb
+  pip install colorama
+  ~~~
+  * **Latest release**: check the repo's [releases page](https://github.com/SnowyGuyCODE/bitcoin-miner/releases) or use in the terminal the command:
+  ~~~ rb
+  git clone https://github.com/SnowyGuyCODE/bitcoin-miner
+  ~~~
+
