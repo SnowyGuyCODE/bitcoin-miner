@@ -47,3 +47,4 @@ Download and install:
   git clone https://github.com/SnowyGuyCODE/bitcoin-miner
   ~~~
 
+Copyright © 2022 SnowyGuy's Bitcoin Miner Project - Released under the MIT license.
