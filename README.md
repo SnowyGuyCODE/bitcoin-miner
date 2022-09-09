@@ -25,7 +25,7 @@ Earn up to 0.0008 bitcoin for every 5 minutes (mostly depending on the time).
 ### Windows:
 Download and install:
   * **Latest python 3.10**: check [python.org](https://python.org/downloads) or the microsoft store's [python 3.10 application](https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5)
-  * **Latest colorama module**: open command prompt and enter:
+  * **Latest colorama module**: open cmd and enter:
   ~~~ rb
   pip install colorama
   ~~~
