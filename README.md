@@ -3,7 +3,7 @@
   <br>
   <img src="https://user-images.githubusercontent.com/110027012/189337957-d602af05-c368-4cfc-bf79-d1460a72648c.png" alt="bitcoin-donate" width="200"></a>
   <br>
-  Donate Bitcoin via QR Code
+  Donate Bitcoin via BTC Address: 19NU8PH5fsAQ5SjL8BvV7VKLVZ7z4biXPh
   <br>
   <br>
 </h1>
